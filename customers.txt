@@ -1,0 +1,6 @@
+Name Code: 45
+Age: 2
+ID Number: 8000
+Weight: 56.0
+Decision Made: True
+Repeat Customer: False
